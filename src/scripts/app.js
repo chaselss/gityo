@@ -8,3 +8,4 @@ let img = new Image()
 img.src = abc
 document.body.appendChild(img);
 console.log('oko');
+console.log('hahhah')
