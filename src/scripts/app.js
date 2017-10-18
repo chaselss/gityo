@@ -7,5 +7,4 @@ Name.sayName()
 let img = new Image()
 img.src = abc
 document.body.appendChild(img);
-console.log('oko');
 console.log('what')
